@@ -8,7 +8,7 @@
                 <button class="navbar-toggler bg-light" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent" style="z-index: 1500;">
                     <ul class="navbar-nav mr-auto"></ul>
                     <ul id="nav" class="nav navbar-nav">
                         <li class="" id="inicio"><a class="nav-link" href="#home" >Inicio</a> </li>
